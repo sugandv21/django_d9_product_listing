@@ -1,0 +1,37 @@
+[
+  { "model": "products.product", "pk": 1, "fields": { "name": "iPhone 15", "price": "66300", "brand": "Apple", "is_available": true }},
+  { "model": "products.product", "pk": 2, "fields": { "name": "Galaxy S23", "price": "58100", "brand": "Samsung", "is_available": true }},
+  { "model": "products.product", "pk": 3, "fields": { "name": "Dell XPS 15", "price": "99600", "brand": "Dell", "is_available": false }},
+  { "model": "products.product", "pk": 4, "fields": { "name": "Sony WH-1000XM5", "price": "29000", "brand": "Sony", "is_available": true }},
+  { "model": "products.product", "pk": 5, "fields": { "name": "HP Spectre x360", "price": "91300", "brand": "HP", "is_available": true }},
+
+  { "model": "products.product", "pk": 6, "fields": { "name": "MacBook Pro 14", "price": "165900", "brand": "Apple", "is_available": true }},
+  { "model": "products.product", "pk": 7, "fields": { "name": "Galaxy Z Fold 5", "price": "149300", "brand": "Samsung", "is_available": true }},
+  { "model": "products.product", "pk": 8, "fields": { "name": "ThinkPad X1 Carbon", "price": "116200", "brand": "Lenovo", "is_available": true }},
+  { "model": "products.product", "pk": 9, "fields": { "name": "Bose QC 45", "price": "27400", "brand": "Bose", "is_available": true }},
+  { "model": "products.product", "pk": 10, "fields": { "name": "Asus ROG Phone 7", "price": "82900", "brand": "Asus", "is_available": false }},
+
+  { "model": "products.product", "pk": 11, "fields": { "name": "iPad Pro 12.9", "price": "91100", "brand": "Apple", "is_available": true }},
+  { "model": "products.product", "pk": 12, "fields": { "name": "Surface Laptop 5", "price": "107800", "brand": "Microsoft", "is_available": true }},
+  { "model": "products.product", "pk": 13, "fields": { "name": "Redmi Note 13", "price": "24900", "brand": "Xiaomi", "is_available": true }},
+  { "model": "products.product", "pk": 14, "fields": { "name": "Oppo Find X6", "price": "58100", "brand": "Oppo", "is_available": true }},
+  { "model": "products.product", "pk": 15, "fields": { "name": "Pixel 8 Pro", "price": "74500", "brand": "Google", "is_available": false }},
+
+  { "model": "products.product", "pk": 16, "fields": { "name": "OnePlus 11", "price": "53800", "brand": "OnePlus", "is_available": true }},
+  { "model": "products.product", "pk": 17, "fields": { "name": "Huawei Mate 60", "price": "66300", "brand": "Huawei", "is_available": true }},
+  { "model": "products.product", "pk": 18, "fields": { "name": "Alienware m17 R5", "price": "182600", "brand": "Dell", "is_available": true }},
+  { "model": "products.product", "pk": 19, "fields": { "name": "Beats Studio Pro", "price": "20600", "brand": "Beats", "is_available": true }},
+  { "model": "products.product", "pk": 20, "fields": { "name": "Realme GT Neo 5", "price": "41400", "brand": "Realme", "is_available": true }},
+
+  { "model": "products.product", "pk": 21, "fields": { "name": "Sony Xperia 1 V", "price": "99500", "brand": "Sony", "is_available": true }},
+  { "model": "products.product", "pk": 22, "fields": { "name": "LG Gram 17", "price": "124500", "brand": "LG", "is_available": true }},
+  { "model": "products.product", "pk": 23, "fields": { "name": "iMac 24", "price": "107800", "brand": "Apple", "is_available": false }},
+  { "model": "products.product", "pk": 24, "fields": { "name": "Moto Edge 40", "price": "41500", "brand": "Motorola", "is_available": true }},
+  { "model": "products.product", "pk": 25, "fields": { "name": "Razer Blade 15", "price": "174300", "brand": "Razer", "is_available": true }},
+
+  { "model": "products.product", "pk": 26, "fields": { "name": "Honor Magic5", "price": "58100", "brand": "Honor", "is_available": true }},
+  { "model": "products.product", "pk": 27, "fields": { "name": "Vivo X90 Pro", "price": "74500", "brand": "Vivo", "is_available": true }},
+  { "model": "products.product", "pk": 28, "fields": { "name": "Mac Mini M2", "price": "49700", "brand": "Apple", "is_available": true }},
+  { "model": "products.product", "pk": 29, "fields": { "name": "Asus ZenBook 14", "price": "74500", "brand": "Asus", "is_available": true }},
+  { "model": "products.product", "pk": 30, "fields": { "name": "HP Omen 16", "price": "116200", "brand": "HP", "is_available": true }}
+]

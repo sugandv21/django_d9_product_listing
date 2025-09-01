@@ -1,0 +1,41 @@
+{% extends "products/layout/base.html" %}
+{% block content %}
+
+<div class="bg-primary text-white text-center py-5 mb-5 rounded">
+  <h1 class="display-4">Welcome to Product Portal</h1>
+  <p class="lead">Browse and filter products easily by name, brand, price, and availability.</p>
+  <a href="{% url 'product_list' %}" class="btn btn-light btn-lg mt-3">Start Browsing</a>
+</div>
+
+<div class="container mb-5">
+  <h2 class="mb-3 text-center">About This Portal</h2>
+  <p class="text-muted text-center">
+    This portal is a product listing system built. 
+    You can search for products, filter them by price or availability, 
+    and navigate through pages with ease.
+  </p>
+</div>
+
+<div class="row text-center mb-5">
+  <div class="col-md-4">
+    <div class="card shadow-sm p-4">
+      <h4> Search Products</h4>
+      <p>Find products by name or brand instantly.</p>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card shadow-sm p-4">
+      <h4> Price Filters</h4>
+      <p>Filter items within your preferred budget range.</p>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card shadow-sm p-4">
+      <h4>Availability</h4>
+      <p>See only in-stock products or check unavailable ones.</p>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}
